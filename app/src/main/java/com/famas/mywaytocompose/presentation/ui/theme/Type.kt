@@ -1,4 +1,4 @@
-package com.famas.mywaytocompose.ui.theme
+package com.famas.mywaytocompose.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
